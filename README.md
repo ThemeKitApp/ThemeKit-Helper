@@ -19,7 +19,7 @@ Command Line Helper Tool for ThemeKit
 Run:
 
 ```bash
-pip install themekit-cli
+pip3 install themekit-cli
 ```
 
 After letting it install you can now run:
